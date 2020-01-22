@@ -79,3 +79,7 @@ table {
   height: 500px;
   float: left;
 }
+
+.form-group {
+  margin-top: 15px;
+}
