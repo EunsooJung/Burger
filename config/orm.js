@@ -11,7 +11,7 @@ function addQuestionSymbol(num) {
 function objToSql(ob) {
   var arr = [];
   for (var key in ob) {
-    if (Object.hasOwnProperty.call(obj, key)) {
+    if (Object.hasOwnProperty.call(ob, key)) {
       arr.push(key + '=' + ob[key]);
     }
   }
@@ -60,7 +60,6 @@ var orm = {
       if (err) {
         throw err;
       }
-
       cb(result);
     });
   },
