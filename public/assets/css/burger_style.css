@@ -10,7 +10,7 @@
 body {
   min-height: 100%;
   text-align: center;
-  /* background: url(images/burger.jpg); */
+  background: url(/assets/img/Grill-Restaurant-Menu-in-Retro-Style.gif);
   background-size: cover;
 }
 
@@ -62,19 +62,22 @@ body {
 }
 
 .section {
-  background: rgba(89, 162, 145, 0.71);
+  background: rgba(60, 47, 14, 0.71);
   border: 1px solid white;
 }
+
 table {
   margin: 0 auto;
 }
 
 .devoured {
+  margin-top: 10px;
   width: 500px;
   height: 500px;
   float: right;
 }
 .notDevoured {
+  margin-top: 10px;
   width: 500px;
   height: 500px;
   float: left;
