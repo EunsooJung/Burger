@@ -28,9 +28,7 @@
     "url": "https://github.com/EunsooJung/Burger/issues"
   },
   "homepage": "https://github.com/EunsooJung/Burger#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.2"
-  },
+  "devDependencies": {},
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
