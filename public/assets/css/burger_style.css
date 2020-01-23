@@ -14,6 +14,10 @@ body {
   background-size: cover;
 }
 
+.btn {
+  font-size: 18px;
+}
+
 .btnColor {
   color: black;
 }
