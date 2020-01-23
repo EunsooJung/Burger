@@ -37,7 +37,7 @@ node server.js or npm start (using nodemon)
 
 To get Note Taker, after downloading, you need to make sure Git Bash terminal open and looking at the correct folder. When you are within the correct location, you may type the following commands to ask her for information:
 
-- node index.js
+- node server.js
 
 ### Guidelines:
 
