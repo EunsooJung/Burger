@@ -56,7 +56,7 @@ To start:
 
 - Project structure
 
-  [![Employee Tracker](https://github.com/EunsooJung/Employee-Tracker/blob/master/assets/images/ProjectStructure.png)]
+  [![Burger-Project-Structure](https://github.com/EunsooJung/Burger/blob/master/public/assets/img/burger-prj-structure.png)]
 
 - Source Code Check point
 
