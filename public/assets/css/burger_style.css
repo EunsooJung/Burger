@@ -3,7 +3,7 @@
   padding: 0;
   font-weight: bold;
   color: white;
-  font-size: 20px;
+  font-size: 25px;
   font-family: 'Averia Serif Libre', cursive;
 }
 
@@ -62,7 +62,8 @@ body {
 }
 
 .section {
-  background: rgba(60, 47, 14, 0.71);
+  margin-top: 10px;
+  background: rgba(79, 61, 17, 0.71);
   border: 1px solid white;
 }
 
